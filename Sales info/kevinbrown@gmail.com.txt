@@ -1,0 +1,7 @@
+Email: kevinbrown@gmail.com
+Name: Kevin Brown
+Address: 234 Birch Ln, CA, 90001
+Number of transactions: 5
+Seller: Best Buy
+Cost: $150.00
+Material / publisher cost: $30.00

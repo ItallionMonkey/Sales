@@ -1,0 +1,7 @@
+Email: sarahconnor@hotmail.com
+Name: Sarah Connor
+Address: 321 Pine Rd, NY, 10001
+Number of transactions: 20
+Seller: Walmart
+Cost: $100.00
+Material / publisher cost: $30.00

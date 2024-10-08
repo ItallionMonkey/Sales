@@ -1,0 +1,7 @@
+Email: johndoe@gmail.com
+Name: John Doe
+Address: 313 Glensawcourt, NC, 15038
+Number of transactions: 25
+Seller: Amazon 
+Cost: $ 50.00
+Material / publisher cost: $30.00
